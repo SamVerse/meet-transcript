@@ -1,6 +1,2 @@
-{"speaker_id": "lLwmPELBQwaKUhp4YlSSRFHqLYcGSsgH", "text": "Hey, I need some help with my account.", "timestamp": "00:00:05"}
-{"speaker_id": "2Mf-7h6UaXwR8-pPG-7OD", "text": "Sure, can you tell me what issue you are facing?", "timestamp": "00:00:10"}
-{"speaker_id": "lLwmPELBQwaKUhp4YlSSRFHqLYcGSsgH", "text": "I’m not able to reset my password.", "timestamp": "00:00:15"}
-{"speaker_id": "2Mf-7h6UaXwR8-pPG-7OD", "text": "No worries, I’ll guide you through the reset process.", "timestamp": "00:00:20"}
-{"speaker_id": "lLwmPELBQwaKUhp4YlSSRFHqLYcGSsgH", "text": "Thanks, that would be great.", "timestamp": "00:00:25"}
-{"speaker_id": "2Mf-7h6UaXwR8-pPG-7OD", "text": "Okay, please check your email for the reset link.", "timestamp": "00:00:30"}
+{"id":"msg_1","user":"lLwmPELBQwaKUhp4YlSSRFHqLYcGSsgH","agent":"2Mf-7h6UaXwR8-pPG-7OD","text":"Hey, how are you?","start":"2025-08-19T14:20:00Z"}
+{"id":"msg_2","user":"2Mf-7h6UaXwR8-pPG-7OD","agent":"Assistant","text":"I’m good, thanks for asking!","start":"2025-08-19T14:20:05Z"}
