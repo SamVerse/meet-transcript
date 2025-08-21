@@ -1,2 +1,5 @@
-{"id":"msg_1","user":"lLwmPELBQwaKUhp4YlSSRFHqLYcGSsgH","agent":"2Mf-7h6UaXwR8-pPG-7OD","text":"Hey, how are you?","start":"2025-08-19T14:20:00Z"}
-{"id":"msg_2","user":"2Mf-7h6UaXwR8-pPG-7OD","agent":"Assistant","text":"I’m good, thanks for asking!","start":"2025-08-19T14:20:05Z"}
+{"id": 1, "start_time": "2025-08-19T09:00:05Z", "end_time": "2025-08-19T09:00:10Z", "speaker": "Speaker 1", "text": "Good morning everyone, thanks for joining today’s meeting."}
+{"id": 2, "start_time": "2025-08-19T09:00:11Z", "end_time": "2025-08-19T09:00:18Z", "speaker": "Speaker 2", "text": "Good morning! Yes, let’s get started with the agenda."}
+{"id": 3, "start_time": "2025-08-19T09:00:20Z", "end_time": "2025-08-19T09:00:28Z", "speaker": "Speaker 1", "text": "First, we’ll go over last week’s tasks and updates."}
+{"id": 4, "start_time": "2025-08-19T09:00:30Z", "end_time": "2025-08-19T09:00:40Z", "speaker": "Speaker 3", "text": "I’ve completed the frontend work and integrated the login feature."}
+{"id": 5, "start_time": "2025-08-19T09:00:42Z", "end_time": "2025-08-19T09:00:55Z", "speaker": "Speaker 2", "text": "Great. The backend APIs are also deployed, so we can start testing."}
